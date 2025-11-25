@@ -24,3 +24,11 @@ oran_specs_15.0.0/
 .DS_Store
 Thumbs.db
 
+# Security - DO NOT COMMIT TOKENS OR KEYS
+*.key
+*.token
+*credentials*
+.env
+*.pem
+*.p12
+
