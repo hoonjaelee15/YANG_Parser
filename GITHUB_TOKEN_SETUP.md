@@ -130,3 +130,5 @@ source ~/.bashrc
 - **zsh**: `~/.zshrc`에 추가
 - **fish**: `~/.config/fish/config.fish`에 `set -gx GITHUB_TOKEN "..."` 추가
 
+
+
