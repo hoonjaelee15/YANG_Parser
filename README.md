@@ -15,4 +15,3 @@ python3 download_oran_specs.py
 ## O-RAN 사양 다운로드
 
 O-RAN 사양은 https://specifications.o-ran.org 에서 다운로드할 수 있습니다.
-
